@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.topo img{
+    width: 7%;
+    padding-right: 1.6em;
+    margin-top: -0.7em;
+    
+}
+
+.topo{
+    background-color: #00112A;
+    display: flex;
+    justify-content: center;
+    font-size: 2.5em;
+    font-family: 'DM Serif Display', serif;
+    letter-spacing: 0.5rem;
+    padding-top: 1em;
+    padding-bottom: 0.5rem;
+    color: white;
+}
+
+.lista-t a{
+    text-decoration: none;
+    color: white;
+}
+
+.lista-t{
+    background-color: black;
+    color: white;
+    font-size: 1.5em;
+    font-family: 'DM Serif Display', serif;
+    letter-spacing: 0.2rem;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu img{
+    width: 15%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+    
+}
+
+.menu select{
+  font-size: 90%;
+  font-family: 'DM Serif Display', serif;
+  width: 20%;
+  height: 2em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1em;
+  text-decoration: none;
+}
+
+.menu input{
+    font-size: 90%;
+  font-family: 'DM Serif Display', serif;
+  width: 20%;
+  height: 2em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1em;
+  text-decoration: none;
+}
+
+
+.menu{
+    background-color: #2F343B;
+    height: 45em;
+}
+
+.result{
+    font-size: 180%;
+    font-family: 'DM Serif Display', serif;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+    text-decoration: none;
+}
+
+.finish{
+    background-color: #00112A;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'DM Serif Display', serif;
+}
+
+.finish h1{
+    padding-top: 2em;
+    font-size: 3em;
+    color: white;
+}
+
+.footer li{
+    font-size: 1em;
+    color: white;
+    margin-top: 1em;
+    padding: 0.3em;
+    list-style: none;
+    padding-left: 3em;
+}
+
+.finish img{
+    width: 18em;
+
+}
